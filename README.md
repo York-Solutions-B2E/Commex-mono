@@ -26,8 +26,8 @@ A .NET 8 test project containing:
 ## Related Repositories
 
 This is part of a multi-repository architecture:
-- **Frontend Repository**: Contains the Blazor Server frontend application
-- **Backend Repository**: Contains the API backend services
+- **Frontend Repository**: [TSG-Commex-FE](https://github.com/York-Solutions-B2E/TSG-Commex-FE) - Contains the Blazor Server frontend application
+- **Backend Repository**: [TSG-Commex-BE](https://github.com/York-Solutions-B2E/TSG-Commex-BE) - Contains the API backend services
 - **Shared Repository** (this repo): Contains shared DTOs and tests
 
 ## Getting Started
