@@ -1,0 +1,6 @@
+[submodule "TSG-Commex-BE"]
+	path = TSG-Commex-BE
+	url = git@github.com:York-Solutions-B2E/TSG-Commex-BE.git
+[submodule "TSG-Commex-FE"]
+	path = TSG-Commex-FE
+	url = git@github.com:York-Solutions-B2E/TSG-Commex-FE.git
